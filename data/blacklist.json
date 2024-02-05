@@ -5,6 +5,7 @@
         "png",
         "gif",
         "bmp",
+        "woff",
         "tiff",
         "ico",
         "mp3",
@@ -35,6 +36,7 @@
         "json",
         "ico",
         "css",
-        "woff2"
+        "woff2",
+        "svg"
     ]
 }
